@@ -153,14 +153,14 @@ The environment variable `DEVFILE_BANNER` controls whether the registry viewer b
 
 The environment variable `ANALYTICS_WRITE_KEY` is the Segment write key. Note: Defaults to `null`.
 
-## Submitting Pull Request
+## Pull Requests
 
 **Note:** All commits must be signed off with the footer:
 ```
 Signed-off-by: First Lastname <email@email.com>
 ```
 
-You can easily add this footer to your commits by adding `-s` when running `git commit`. When you think the code is ready for review, create a pull request and link the issue associated with it.
+Once you set your `user.name` and `user.email` in your git config, you can sign your commit automatically with `git commit -s`. When you think the code is ready for review, create a pull request and link the issue associated with it.
 
 Owners of the repository will watch out for and review new PRs.
 
