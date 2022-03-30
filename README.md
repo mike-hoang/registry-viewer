@@ -25,6 +25,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create next
 1. Start developing and watch for code changes:
    ```
    yarn dev
+   ```
 
 ## Scripts
 
